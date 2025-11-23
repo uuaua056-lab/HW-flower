@@ -1,0 +1,373 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body{
+    background-color: #281014;
+}
+header {
+   
+ 
+    align-items: center;
+justify-content: space-between;
+position: absolute;
+margin-top: -1400px;
+
+
+
+
+
+}
+
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+
+    
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 50px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+  font-size: 25px;
+  
+  
+
+}
+.box{
+    background-image: url("./Mask\ Group.png");
+height: 1440px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+ 
+ 
+ 
+ }
+ .begiaka{
+    margin-right: 150px;
+ }
+ .paka{
+    color: white;
+    font-size: 20px;
+    margin-left: 90px;
+ }
+ .h1aka{
+    padding: 20px;
+    color: white;
+font-weight: 400;
+font-size: 120px;
+line-height: 100%;
+letter-spacing: 9%;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 100px;
+margin-left: 230px;
+
+ }
+ .btn1{
+    width: 199px;
+height: 50px;
+opacity: 1;
+top: 667px;
+left: 861px;
+border-width: 1px;
+border: 1px solid white;
+background-color: inherit;
+color: white;
+margin-left: 500px;
+
+
+
+ }
+ .kottah1vabtn{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: -1000px;
+
+ }
+ main section h1{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+ }
+ .card1{
+    width: 333px;
+    height: 387px;
+    border: 1px solid white;
+    background-color: inherit;
+    opacity: 1;
+    top: 1770px;
+    left: 205px;
+    margin-top: 50px;
+    
+ }
+.imgaka{
+    margin-bottom: 10px;
+
+}
+.c1p{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    letter-spacing: 10%;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    
+}
+.c1p2{
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    letter-spacing: 10%;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+.otasi{
+    gap: 10px
+    ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card2{
+    width: 350px;
+height: 752px;
+opacity: 1;
+top: 1365px;
+left: 595px;
+border: 1px solid white;
+background-color: inherit;
+padding-left: 8px;
+padding-top: 8px;
+margin-top: 415px;
+
+}
+.card3{
+    width: 350px;
+height: 512px;
+opacity: 1;
+top: 1365px;
+left: 985px;
+border: 1px solid white;
+background-color: inherit;
+margin-top: 183px;
+
+
+}
+.card4{
+    width: 350px;
+height: 288px;
+opacity: 1;
+top: 1365px;
+left: 1375px;
+border: 1px solid white;
+padding-left: 5px;
+padding-top: 8px;
+
+}
+.card5{
+    width: 333px;
+    height: 387px;
+    border: 1px solid white;
+    background-color: inherit;
+    opacity: 1;
+    top: 1770px;
+    left: 205px;
+    margin-left: -100px;
+    margin-top: -350px;
+}
+.card6{
+    width: 345px;
+height: 288px;
+opacity: 1;
+top: 1917px;
+left: 985px;
+border-width: 1px;
+border: 1px solid white;
+padding-left: 15px;
+padding-top: 8px;
+margin-left: 605px;
+margin-top: -260px;
+
+}
+.card7{
+    width: 350px;
+height: 512px;
+opacity: 1;
+top: 1693px;
+left: 1375px;
+border: 1px solid white;
+padding-left: 10px
+;
+padding-top: 10px;
+margin-left: 955px;
+margin-top: -480px;
+
+}
+.ah1{
+    color: white;
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+letter-spacing: 9%;
+text-transform: uppercase;
+margin-bottom: 60px;
+
+
+}
+.ap{
+    color: white;
+font-weight: 400;
+font-size: 18px;
+line-height: 170%;
+letter-spacing: 0%;
+margin-bottom: 30px;
+
+}
+.abtn{
+    width: 220px;
+height: 50px;
+opacity: 1;
+top: 2761px;
+left: 375px;
+border-width: 1px;
+border: 1px solid white;
+background-color: inherit;
+font-size: 15px;
+color: white;
+
+}
+.ada1{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 200px;
+margin-bottom: 200px;
+}
+.ada2{
+    margin-right: 150px;
+}
+.bolaimg{
+    width: 700px;
+height: 600px;
+margin-right: 150px;
+margin-left: 50px;
+
+
+}
+.h11{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+.karta1{
+    width: 348px;
+height: 574px;
+background-color: #3B181E;
+opacity: 1;
+top: 4417px;
+left: 372px;
+border-width: 1px;
+border: 1px solid white;
+transition: 0.3s;
+
+
+}
+.k1h1{
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+margin-top: 100px;
+
+}
+.k1btn{
+    width: 134px;
+height: 50px;
+opacity: 1;
+top: 4871px;
+left: 479px;
+border-width: 1px;
+border: 1px solid white;
+background-color: inherit;
+font-size: 20px;
+color: white;
+margin-top: 130px;
+margin-left: 90px;
+}
+.begzod{
+    width: 345px;
+    height: 220px;
+    background-color: black;
+  
+}
+.part1{
+    width: 198.38357543945312px;
+height: 61.31439208984375px;
+margin-top: 80px;
+margin-left: 75px;
+
+}
+.kartota{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.karta1:hover{
+    transform: scale(1.3); 
+}
+.imges{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+   gap: 50px
+   ;
+   margin-bottom: 25px;
+
+   
+}
+footer p{
+    color: white;
+    font-size: 20px;
+}
+.ota2{
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+    gap: 50px
+    ;
+    padding: 0 500px;
+
+}
